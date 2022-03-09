@@ -70,7 +70,7 @@ h4 {
 }
 
 a {
-    color: $colorpink;
+    color: $colordark;
     outline: 0;
     @include transition(.3s);
     &:hover {
